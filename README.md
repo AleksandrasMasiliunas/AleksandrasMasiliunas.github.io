@@ -18,7 +18,7 @@ Welcome to my GitHub Pages site!
 
 | Project | Description | Link |
 |---------|-------------|------|
-
+| This site! | My GitHub Pages personal site | [View](https://AleksandrasMasiliunas.github.io) |
 
 ## Contact
 
